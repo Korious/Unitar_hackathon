@@ -2,7 +2,6 @@
 
 ## Overview
 RideShare is not just another ridesharing platform; it's a commitment to a greener and more sustainable future. Our mission is to reduce carbon emissions by promoting carpooling, optimizing transportation resources, and contributing to the United Nations Sustainable Development Goals (SDGs).
-
 	![RideShare](./assets/images/brand/unitar.jpg)
 ## Features
 
