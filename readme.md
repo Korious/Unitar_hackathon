@@ -6,15 +6,15 @@ RideShare is not just another ridesharing platform; it's a commitment to a green
 	![RideShare](./assets/images/brand/unitar.jpg)
 ## Features
 
-### 1.**Smart Ridesharing**
+### 1. **Smart Ridesharing**
    - Connect with eco-conscious riders and drivers in your area.
    - Efficient route planning for reduced travel time and emissions.
 
-### 2.**Climate-Focused**
+### 2. **Climate-Focused**
    - Every shared ride is a step towards combating climate change.
    - Real-time carbon footprint tracking to visualize your positive impact.
 
-### 3.**SDG Integration**
+### 3. **SDG Integration**
    - Aligning with UN SDGs, particularly Goal 13 (Climate Action) and Goal 11 (Sustainable Cities).
    - Contributing to a sustainable and responsible community.
 
